@@ -1,0 +1,183 @@
+/*
+ * divs basicos
+ */
+#ccaa_page
+{
+  background:black;
+  width:700px;
+  color:white;
+}
+
+#ccaa_leftcont {
+  padding:0px;
+  margin:0px 0px 3px 0px;
+  width:150px;
+  float:left;
+  text-align:center;
+}
+
+#ccaa_rightcont {
+  padding:0px;
+  margin:0px 0px 0px 166px;
+  width:533px;
+}
+
+#ccaa_bottomcont {
+  padding:0px;
+  margin:3px 0px 0px 0px;
+  width:698px;
+  clear:both;
+}
+
+.ccaa_page .hform
+{
+  display:inline;
+}
+
+.hidden_table
+{
+  margin:0;
+  padding:0;
+  border:0;
+  display:inline;
+}
+
+/*
+ * tags
+ */
+.date
+{
+  display:inline;
+}
+.caps
+{
+  display:inline;
+}
+
+#ccaa_rightcont .title {
+  font-size: 16px
+}
+.ccaa_page .list
+{
+  width:100%;
+  padding:0px;
+  margin:5px;
+  border-width:0px;
+  border-spacing:0px;
+}
+
+.ccaa_page .list .par
+{
+  background:#151515;
+}
+
+.ccaa_page .list td
+{
+  border-style:dashed;
+  border-color:#333333;
+  border-width:1px;
+}
+
+.ccaa_page .list th
+{
+  border-style:solid;
+  border-color:#333333;
+  border-width:1px;
+}
+
+.ccaa_page a
+{
+  color: #00ee00;
+}
+
+.ccaa_page a.good
+{
+  color:cyan;
+  text-decoration:none;
+}
+
+.ccaa_page a.bad
+{
+  color:red;
+  text-decoration:none;
+}
+
+.licao a.PD
+{
+  color:white;
+  text-decoration:none;
+}
+.licao a.ATR
+{
+  color:YELLOW;
+  text-decoration:none;
+}
+.licao a.NAO
+{
+  color:RED;
+  text-decoration:none;
+}
+
+.licao a.NOTA
+{
+  color:white;
+  text-decoration:none;
+}
+
+.licao a.COR
+{
+  color:YELLOW;
+  text-decoration:none;
+}
+.licao a.PROVA
+{
+  color:RED;
+  text-decoration:none;
+}
+.licao a.S
+{
+  color:blue;
+  text-decoration:none;
+}
+
+.licao a.N
+{
+  color:red;
+  text-decoration:none;
+}
+.licao a.NP
+{
+  color:purple;
+  text-decoration:none;
+}
+
+.faltas a.pontual
+{
+  color:#4040ff;
+  text-decoration:none;
+}
+.faltas a.later
+{
+  color:yellow;
+  text-decoration:none;
+}
+.faltas a.skipper
+{
+  color:red;
+  text-decoration:none;
+}
+
+.capitulo a
+{
+  color:white;
+  text-decoration:none;
+}
+.capitulo a.I
+{
+  color:red;
+}
+.capitulo .S
+{
+  color: #00ee00;
+  font-weight:bold;
+}
